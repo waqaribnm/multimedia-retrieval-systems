@@ -1,2 +1,2 @@
-# multimedia-retrieval-systems
+# MRT : Course
 Multimedia Retrieval System
