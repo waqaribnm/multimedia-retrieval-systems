@@ -1,2 +1,2 @@
 # MRT : Course
-Multimedia Retrieval System
+Multimedia Retrieval System Course at QAU
