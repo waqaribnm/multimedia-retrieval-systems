@@ -1,7 +1,7 @@
 # MRT : Course
 Multimedia Retrieval System Course at QAU
 
-#Python Dependencies
+## Python Dependencies ℹ️
 - spleeter
 - nltk
 - numpy
